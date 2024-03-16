@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "285338401545",
+    "project_id": "zomatoclone-89655",
+    "storage_bucket": "zomatoclone-89655.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285338401545:android:88f3a12426ef05fb7931d8",
+        "android_client_info": {
+          "package_name": "com.yadavrestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285338401545-e0jbstgk9d8ae9545kk8lp94m8ibkcss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7BsSd10RCiU3Sa1KXBOHR8MEq24SlTJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285338401545-e0jbstgk9d8ae9545kk8lp94m8ibkcss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
